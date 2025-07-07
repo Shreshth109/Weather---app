@@ -7,3 +7,6 @@
 🌤️ Weather icons and descriptions based on current conditions
 
 📱 Fully responsive design for mobile and desktop
+
+![Screenshot](images/screenshot.png)
+
